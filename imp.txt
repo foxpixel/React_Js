@@ -1,0 +1,7 @@
+when yarn start doesnt run
+start command error
+
+
+. Go to your parent folder in cmd
+. Type yarn add create-react-app
+. And yarn create-react-app FolderName
